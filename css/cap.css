@@ -1,0 +1,25 @@
+img{
+    display: flex;
+    margin: auto;
+    width: 1500px;
+    height: 900px;
+}
+body{
+    background-color: darkgrey;
+}
+table{
+    text-align: center;
+}
+td, th{
+    padding: 20px 100px 10px 110px;
+}
+th {
+    font-weight: bold;
+
+}
+a{
+
+}
+
+
+
